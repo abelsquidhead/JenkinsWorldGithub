@@ -14,7 +14,7 @@
 *.userprefs
 
 # Bower results
-src/main/webapp/resources/lib
+# src/main/webapp/resources/lib
 
 # Build results
 [Dd]ebug/
